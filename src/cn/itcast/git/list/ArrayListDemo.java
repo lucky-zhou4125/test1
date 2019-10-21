@@ -33,6 +33,7 @@ public class ArrayListDemo {
         Condition condition1 = lock.newCondition();
         Condition condition2 = lock.newCondition();
 
+        System.out.println("仙剑奇侠传");
 
     }
 }
